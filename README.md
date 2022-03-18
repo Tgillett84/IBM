@@ -1,3 +1,5 @@
+![This is an image](https://github.com/Tgillett84/IBM/blob/main/ibmbanner.png)
+
 # IBM :computer:	
 ## IBM certification training material
 
