@@ -1,9 +1,9 @@
 # IBM :computer:	
 ## IBM certification training material
 
-	:school: * * The material for this repository goes with IBM - DB0201EN SQL for Data Science
+* * The material for this repository goes with IBM - DB0201EN SQL for Data Science 
 
-> Associated programs include:
+> Associated programs include: 	:school:
     - Data Analyst Professional certificate
     - Data Engineering Professional certificate
     - Data Science Foundations Professional certificate
