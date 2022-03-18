@@ -1,14 +1,16 @@
-# IBM
-IBM certification training material
+# IBM :computer:	
+## IBM certification training material
 
-The material for this repository goes with IBM - DB0201EN SQL for Data Science
+	:school: * * The material for this repository goes with IBM - DB0201EN SQL for Data Science
 
-Associated programs include:
+> Associated programs include:
     - Data Analyst Professional certificate
     - Data Engineering Professional certificate
     - Data Science Foundations Professional certificate
     - IBM Data Analyst Professional certificate
     - IBM Data Science Professional certificate
+
+The site to enroll in a MITedX courses [MITedX](https://www.edx.org/search).
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
